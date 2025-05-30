@@ -120,19 +120,27 @@ flutter run
 
 ## 🧑‍💻 Author
 
-Muhammad Ahmad Mahmood  
+Muhammad Ahmad Mahmood
+
 Email: ahmad.mahmood@azm.dev / ahmadmahmood296@gmail.com
+
 Phone :+92 332 5106960
+
 LinkedIn: [muhammad-ahmad-mahmood](https://www.linkedin.com/in/ahmaddioxide)
 
 Sameer Ahmad
+
 Phone: +92 310 8505682
+
 LinkedIn: [smaeer-asiddiqui](https://www.linkedin.com/in/sameer-asiddiqui/)
 
 
 Sheharyar Shakeel
-shaheryar.smaqut@gmail.com 
+
+Email: shaheryar.smaqut@gmail.com 
+
 Phone: +92 315 5430715
+
 LinkedIn: [sheharyarshakeel](https://www.linkedin.com/in/shaheryarshakeel)
 
 
