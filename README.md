@@ -125,10 +125,9 @@ Email: ahmad.mahmood@azm.dev / ahmadmahmood296@gmail.com
 Phone :+92 332 5106960
 LinkedIn: [muhammad-ahmad-mahmood](https://www.linkedin.com/in/ahmaddioxide/)
 
-
-Backend Dev:
 Sameer Ahmad
 Phone: +92 310 8505682
+
 ---
 
 ## 📄 License
